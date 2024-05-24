@@ -1,22 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Program
+﻿
+namespace Class8th__polymopism_
 {
-    internal class Firebat : Unit
+    internal class Ghost : Unit
     {
-        public Firebat()
+        public Ghost()
         {
-            health = 50;
-            attack = 7;
-            defense = 1;
-        }    
+            health = 45;
+            attack = 8;
+            defense = 0;
+        }
+
         new public void Skill()
         {
-            Console.WriteLine("Steam Pack");
+            Console.WriteLine("Lock Down");
         }
         override public void Show()
         {

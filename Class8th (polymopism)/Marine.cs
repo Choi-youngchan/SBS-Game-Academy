@@ -1,5 +1,5 @@
 ﻿
-namespace Program
+namespace Class8th__polymopism_
 {
     internal class Marine : Unit
     {
