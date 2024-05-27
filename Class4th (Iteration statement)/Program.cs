@@ -48,10 +48,10 @@
                 #region for문
                 // 초기식을 연산하여 조건식의 결과에 따라 특정한 횟수만큼 반복하는 반복문입니다.
 
-                //for(int i = 0; i < 5; i++)
-                //{
-                //    Console.WriteLine("for statement");
-                //}
+                for(int i = 0; i < 5; i++)
+                {
+                    Console.WriteLine("for statement");
+                }
 
                 //for(int i = 1; i <= 5; i++)
                 //{

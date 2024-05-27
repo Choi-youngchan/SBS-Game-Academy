@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Class10th (Collection)/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Class10th (Collection).dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Class10th (Collection).dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Class10th (Collection)/1.0.0": {
-      "type": "project",
-      "path": "../Class10th (Collection)/Class10th (Collection).csproj",
-      "msbuildProject": "../Class10th (Collection)/Class10th (Collection).csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Class10th (Collection) >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Administrator\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Program\\Program.csproj",
-      "projectName": "Program",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class10th (Collection)\\Class10th (Collection).csproj",
+      "projectName": "Class10th (Collection)",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class10th (Collection)\\Class10th (Collection).csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Program\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class10th (Collection)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class10th (Collection)\\Class10th (Collection).csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\SBS-Game-Academy\\Class10th (Collection)\\Class10th (Collection).csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
