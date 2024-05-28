@@ -27,3 +27,10 @@ C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\obj\Debug\net6.0\Program
 C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\obj\Debug\net6.0\ref\Program.dll
 C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\obj\Debug\net6.0\Program.sourcelink.json
+C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\bin\Debug\net6.0\Class10th (Collection).deps.json
+C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\bin\Debug\net6.0\Class10th (Collection).runtimeconfig.json
+C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\bin\Debug\net6.0\Class10th (Collection).exe
+C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\bin\Debug\net6.0\Class10th (Collection).dll
+C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\bin\Debug\net6.0\Class10th (Collection).pdb
+C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\SBS-Game-Academy\Program\obj\Debug\net6.0\Program.csproj.CopyComplete
